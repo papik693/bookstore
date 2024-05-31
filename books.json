@@ -1,0 +1,162 @@
+[
+    {
+        "author": "Patryk Heyn",
+        "title": "AKCJI 1",
+        "year": 1949,
+        "genre": "Akcji",
+        "image": "obrazy/akcji.png",
+        "views": 453,
+        "purchases": 234,
+        "price": 27.99
+    },
+    {
+        "author": "Patryk Heyn",
+        "title": "AKCJI 2",
+        "year": 1932,
+        "genre": "Akcji",
+        "image": "obrazy/akcji.png",
+        "views": 43245,
+        "purchases": 123,
+        "price": 24.99
+    },
+    {
+        "author": "Patryk Heyn",
+        "title": "AKCJI 3",
+        "year": 1953,
+        "genre": "Akcji",
+        "image": "obrazy/akcji.png",
+        "views": 800333,
+        "purchases": 3001,
+        "price": 244.99
+    },
+    {
+        "author": "Patryk Heyn",
+        "title": "AKCJI 4",
+        "year": 1985,
+        "genre": "Akcji",
+        "image": "obrazy/akcji.png",
+        "views": 8245,
+        "purchases": 1209,
+        "price": 19.99
+    },
+    {
+        "author": "Jakub Krzemiński",
+        "title": "HORROR 1",
+        "year": 1937,
+        "genre": "Horror",
+        "image": "obrazy/horrory.png",
+        "views": 854,
+        "purchases": 300,
+        "price": 39.99
+    },
+    {
+        "author": "Jakub Krzemiński",
+        "title": "HORROR 2",
+        "year": 1997,
+        "genre": "Horror",
+        "image": "obrazy/horrory.png",
+        "views": 192,
+        "purchases": 11,
+        "price": 9.99
+    },
+    {
+        "author": "Jakub Krzemiński",
+        "title": "HORROR 3",
+        "year": 1996,
+        "genre": "Horror",
+        "image": "obrazy/horrory.png",
+        "views": 3844,
+        "purchases": 192,
+        "price": 25.99
+    },
+    {
+        "author": "Jakub Krzemiński",
+        "title": "HORROR 4",
+        "year": 1950,
+        "genre": "Horror",
+        "image": "obrazy/horrory.png",
+        "views": 91,
+        "purchases": 1,
+        "price": 5.99
+    },
+    {
+        "author": "Marcin Kotowski",
+        "title": "KOMEDIA 1",
+        "year": 1934,
+        "genre": "Komedia",
+        "image": "obrazy/komedie.png",
+        "views": 293,
+        "purchases": 9,
+        "price": 21.99
+    },
+    {
+        "author": "Marcin Kotowski",
+        "title": "KOMEDIA 2",
+        "year": 1902,
+        "genre": "Komedia",
+        "image": "obrazy/komedie.png",
+        "views": 99182,
+        "purchases": 5943,
+        "price": 399.99
+    },
+    {
+        "author": "Marcin Kotowski",
+        "title": "KOMEDIA 3",
+        "year": 2012,
+        "genre": "Komedia",
+        "image": "obrazy/komedie.png",
+        "views": 1928,
+        "purchases": 99,
+        "price": 28.99
+    },
+    {
+        "author": "Marcin Kotowski",
+        "title": "KOMEDIA 3",
+        "year": 2003,
+        "genre": "Komedia",
+        "image": "obrazy/komedie.png",
+        "views": 8001,
+        "purchases": 306,
+        "price": 34.99
+    },
+    {
+        "author": "Marcin Kaczmarzyk",
+        "title": "NAJNOWSZE 1",
+        "year": 1960,
+        "genre": "Najnowsze książki",
+        "image": "obrazy/najnowszefilmy.png",
+        "views": 3992,
+        "purchases": 1,
+        "price": 999.99
+    },
+    {
+        "author": "Marcin Kaczmarzyk",
+        "title": "NAJNOWSZE 2",
+        "year": 1813,
+        "genre": "Najnowsze książki",
+        "image": "obrazy/najnowszefilmy.png",
+        "views": 991002,
+        "purchases": 37842,
+        "price": 0.99
+    },
+    {
+        "author": "Marcin Kaczmarzyk",
+        "title": "NAJNOWSZE 3",
+        "year": 1925,
+        "genre": "Najnowsze książki",
+        "image": "obrazy/najnowszefilmy.png",
+        "views": 392,
+        "purchases": 3,
+        "price": 214.99
+    },
+    {
+        "author": "Marcin Kaczmarzyk",
+        "title": "NAJNOWSZE 4",
+        "year": 1851,
+        "genre": "Najnowsze książki",
+        "image": "obrazy/najnowszefilmy.png",
+        "views": 82,
+        "purchases": 2,
+        "price": 7.99
+    }
+]

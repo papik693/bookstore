@@ -1,0 +1,3 @@
+{"name":"Arkadiusz Grzejnik","comment":"Bardzo ciekawy tytu\u0142 do mojej biblioteki domowej."}
+{"name":"Daniela Bolig\u0142owa","comment":"Ksi\u0105\u017cka bardzo mi si\u0119 podoba. Warta swojej ceny!"}
+{"name":"Wenancjusz Cycek","comment":"Nie podoba mi si\u0119."}

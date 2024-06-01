@@ -12,5 +12,3 @@ CSS3 (Bootstrap 4, FontAwesome)
 JavaScript (jQuery)
 Backend:
 PHP 7.x
-Baza danych:
-MySQL
